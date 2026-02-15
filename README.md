@@ -1,5 +1,7 @@
 ﻿# Binary Lock System
 
+![Platform](https://img.shields.io/badge/platform-Arduino-1f6feb) ![Focus](https://img.shields.io/badge/focus-Security-red) ![Status](https://img.shields.io/badge/status-Active-success)
+
 Three-switch binary unlock mechanism that drives a status LED and servo latch.
 
 ## Original Folder
