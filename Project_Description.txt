@@ -1,0 +1,4 @@
+﻿Title: Binary Lock System
+Overview: Three-switch binary unlock mechanism that drives a status LED and servo latch.
+Hardware: Arduino Uno, SPDT switches, hobby servo, indicator LED.
+Notes: Adjust switch logic for pull-up or pull-down wiring before installation.
